@@ -39,6 +39,9 @@ body {
 .non-derection {
     text-decoration: none;
 }
+.menu-item_no-bullit{
+    list-style-type: none;
+}
 
 .logo-img {
     width: 148px;
